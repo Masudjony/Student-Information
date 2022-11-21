@@ -1,0 +1,50 @@
+body{
+	padding: 30px;
+}
+
+.InformationTakenSection{
+
+	padding: 20%;
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+body.BodyOfStudentInformations h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+input{
+	display: block;
+	margin-top: 15px;
+	width: 100%;
+}
+.SexInput {
+    float: left;
+    width: 50%;
+}
+.form-check {
+    position: revert;
+    /* display: block; */
+    padding-left: 1.25rem;
+}
+.InformationTakenSection form {
+    display: flow-root;
+    width: 100%;
+}
+.SubmissionlistTable {
+    padding-top: 30px;
+    margin-top: 45px;
+    border-top: 1px dashed black;
+}
+.SubmissionlistTable {
+    padding-top: 30px;
+    margin-top: 45px;
+    border-top: 1px dashed black;
+}
+.SubmissionlistTable a{
+	padding-right: 15px;
+}
+table{width: 100%;}
+.save{
+	display: none;
+}
